@@ -1,5 +1,4 @@
 # Docker
-My docker learning journey shared here.
 
 ✔ A Dockerfile is a text file that contains instructions for building a Docker image.
 
